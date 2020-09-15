@@ -1,13 +1,14 @@
 {
-  "name": "angular-seed",
+  "name": "Schmiedse",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Webpage for the Schmied family",
+  "repository": "https://github.com/fancysandwich/Schmiedse",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.7.5",
     "angular-loader": "^1.7.5",
+    "angular-resource": "^1.8.0",
     "angular-route": "^1.7.5",
     "bootstrap": "^4.5.2",
     "html5-boilerplate": "0.0.1"

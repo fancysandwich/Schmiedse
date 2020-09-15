@@ -1,14 +1,14 @@
 'use strict';
 
-angular.module('myApp.front-page', ['ngRoute'])
+angular.module('myApp.frontPage', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/front-page', {
     templateUrl: 'front-page/front-page.template.html',
-    controller: 'front-pageCtrl'
+    controller: 'frontPageCtrl'
   });
 }])
 
-.controller('front-pageCtrl', [function() {
-
+.controller('frontPageCtrl', [function() {
+	//todo write controller
 }]);
